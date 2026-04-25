@@ -1,1 +1,0 @@
-/home/runner/work/dlsite-tui/dlsite-tui/target/debug/dlsite-tui: /home/runner/work/dlsite-tui/dlsite-tui/src/api.rs /home/runner/work/dlsite-tui/dlsite-tui/src/app.rs /home/runner/work/dlsite-tui/dlsite-tui/src/config.rs /home/runner/work/dlsite-tui/dlsite-tui/src/db.rs /home/runner/work/dlsite-tui/dlsite-tui/src/main.rs /home/runner/work/dlsite-tui/dlsite-tui/src/ui.rs
