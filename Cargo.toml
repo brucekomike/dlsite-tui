@@ -1,0 +1,20 @@
+[package]
+name = "dlsite-tui"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "dlsite-tui"
+path = "src/main.rs"
+
+[dependencies]
+ratatui = "0.29"
+crossterm = "0.28"
+reqwest = { version = "0.12", features = ["blocking", "cookies", "json"] }
+rusqlite = { version = "0.32", features = ["bundled"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+anyhow = "1"
+directories = "5"
+cookie_store = "0.21"
+reqwest_cookie_store = "0.8"
